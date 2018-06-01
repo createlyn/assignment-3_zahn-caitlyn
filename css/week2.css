@@ -1,9 +1,9 @@
-body {
+/*body {
   font-family: 'Nunito', sans-serif;
-}
+}*/
 
 /* Example 1 */
-
+/*
 h1 {
   font-size: 65px;
 }
@@ -26,37 +26,37 @@ h5 {
 
 h6 {
   font-size: 20px;
-}
+}*/
 
 /*I am ok with this*/
-h1, h2, h3, h4, h5, h6, p, a  {
+/*h1, h2, h3, h4, h5, h6, p, a  {
   color: black;
-}
+}*/
 
 /*However I am not ok with this*/
-h1, h2, h3, h4, h5, h6, p, a:link, a:visited, a:hover, a:active  {
+/*h1, h2, h3, h4, h5, h6, p, a:link, a:visited, a:hover, a:active  {
   color: black;
-}
+}*/
 
 /* Example 2 */
 
-.header{
-  background-color:blue;
+/*.header{
+  background-color: blue;
 }
+
 .header__nav{
-  float:left;
-  padding:3%;
-
+  float: left;
+  padding: 3%;
 }
+
 .header__nav__item{
-  display:inline-block;
-  color:blue;
-
-}
+  display: inline-block;
+  color: blue;
+}*/
 
 
 /* Example 3 */
-.main {
+/*.main {
   background-color: blue;
 }
 
@@ -66,4 +66,4 @@ h1, h2, h3, h4, h5, h6, p, a:link, a:visited, a:hover, a:active  {
 
 .main__section__list {
   text-align: center;
-}
+}*/
